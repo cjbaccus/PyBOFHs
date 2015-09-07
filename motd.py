@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
 bofhs = open("bofh.txt")
-bline = read.bofhs
+bline = bofhs.read()
 print bline
