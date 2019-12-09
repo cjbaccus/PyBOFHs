@@ -8,4 +8,4 @@
 
 import os, random
 line = random.choice(open('bofh.txt').readlines())
-print line
+print(line)
