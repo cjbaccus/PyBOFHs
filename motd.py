@@ -1,11 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
-# abstract: take contents from bofh.txt and randomly choose one line to print out
-# this script will be used in crontab to randomly generate message of the day lines from BOFH
-# 
-# Version: 1.0 
-# Author: Carl Baccus 2015
+import random
 
-import os, random
-line = random.choice(open('bofh.txt').readlines())
-print(line)
+with open("BOFH.txt", "r") as f:
+	content = f.readlines()
+
+content = [x.strip() for x in content]
+
+print(random.choice(content))
+

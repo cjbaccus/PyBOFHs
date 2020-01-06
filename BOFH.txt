@@ -1,3 +1,11 @@
+The cat scratched the 5e, and the bits wont work
+Someone Googled Google...and broke the internet
+the cache is running short, need to go to the memory bank
+Matt screwed up the firewall rule
+Jason rebooted callmanager again
+James broke the wifi guest
+Divya wasn't here... so shit didn't get done.
+The website is down
 clock speed
 solar flares
 electromagnetic radiation from satellite debris
@@ -463,3 +471,5 @@ It is a layer 8 problem
 The math co-processor had an overflow error that leaked out and shorted the RAM
 Leap second overloaded RHEL6 servers
 DNS server drank too much and had a hiccup
+Your machine had the fuses in backwards.
+
